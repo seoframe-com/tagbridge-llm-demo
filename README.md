@@ -53,5 +53,5 @@ MIT License - Free commercial use. See [LICENSE](LICENSE) file.
 
 ## 🔗 Contact
 - **Live Demo:** https://seoframe.com/tagbridge-multi-demo.html
-- **Team:** www.seoframe.com/en/team/ | https://seoframe.com/advanced-seo.html
+- **Team:** www.seoframe.com/team/ | https://seoframe.com/advanced-seo.html
 - **Application:** LLM-BRIDGE €25k | Feb 2026
