@@ -1,9 +1,8 @@
 # 🛡️ TagBridge LLM Agent Platform
 **Privacy-first analytics orchestration via natural language**
 
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://seoframe.com/tagbridge-multi-demo.html)
-[![Perplexity Pro](https://img.shields.io/badge/LLM-Perplexity%20Pro-orange)](https://www.perplexity.ai/)
 
 ## 🎯 6 Production Solutions (Live)
 
