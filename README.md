@@ -1,7 +1,7 @@
 # 🛡️ TagBridge LLM Agent Platform
 **Privacy-first analytics orchestration via natural language**
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-orange.svg)](LICENSE)
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://seoframe.com/tagbridge-multi-demo.html)
 
 ## 🎯 6 Production Solutions (Live)
