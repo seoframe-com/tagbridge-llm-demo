@@ -21,6 +21,20 @@
 
 **User Flow:** Click → Generate → Copy → Paste → Deploy (**60 seconds**)
 
+## 🗺️ Project Roadmap & Vision
+
+TagBridge is engineered to provide a **Sovereign European Alternative** to US-centric marketing and tracking infrastructure. Our development is focused on transitioning from a "Privacy Shield" to a "Market Sword" through a multi-stage rollout:
+
+### Phase 1: The Sovereign Core (R&D)
+* **Goal:** Finalize the PII scrubbing logic and 1st-party proxy infrastructure.
+* **Open Source:** Releasing the core SemDot logic to the NGI Commons.
+* **Impact:** 100% GDPR compliance and 40% data recovery for EU enterprises.
+
+### Phase 2: Enterprise Scaling & AI Integration
+* **Goal:** High-performance LLM integration for automated conversion insurance.
+* **Scale:** Leveraging European incubator programs (such as LLM-BRIDGE) and EuroHPC resources for model fine-tuning.
+* **Impact:** Displacing legacy US tracking monopolies with a unified, sovereign engine.
+
 ## 🛠 Technology Stack
 AI Processing
 ├── Perplexity Pro LLM
@@ -38,20 +52,18 @@ Security & Compliance
 ├── EU data residency
 └── Zero PII collection
 
-text
-
 **Deployment:** Single `<script>` tag | Zero dependencies | CDN ready
 
-## 💼 LLM-BRIDGE Proposal
+## 💼 Proposal Ask Details
 - **Funding Ask:** €50k (6 months incubation)
 - **KPIs:** 100% GDPR compliance | 10+ SME deployments | 25% time savings | 90%+ accuracy
 - **Team:** Mariyani Group LTD | Varna, Bulgaria
-- **Status:** EU-eligible startup | NGI & LLM Bridge Application Grants 
+- **Status:** EU-eligible startups
 
 ## 📄 License
 MIT License - Free commercial use. See [LICENSE](LICENSE) file.
 
 ## 🔗 Contact
 - **Live Demo:** https://seoframe.com/tagbridge-multi-demo.html | https://yankoslavov.dev/tagbridge-llm/
-- **Team:** www.seoframe.com/team/ | https://seoframe.com/advanced-seo.html | www.mariyanigroup.eu | yankoslavov.dev
-- **Application:** LLM-BRIDGE | NGI €50k | Feb 2026 - April 2026
+- **Team:** www.seoframe.com/team/ | https://seoframe.com/advanced-seo.html | www.mariyanigroup.eu
+
