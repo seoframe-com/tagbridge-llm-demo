@@ -17,6 +17,7 @@
 
 ## 🚀 Live Platform
 [https://seoframe.com/tagbridge-multi-demo.html](https://seoframe.com/tagbridge-multi-demo.html)
+[https://yankoslavov.dev/tagbridge-llm/](https://yankoslavov.dev/tagbridge-llm/)
 
 **User Flow:** Click → Generate → Copy → Paste → Deploy (**60 seconds**)
 
