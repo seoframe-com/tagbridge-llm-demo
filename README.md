@@ -55,7 +55,7 @@ Security & Compliance
 **Deployment:** Single `<script>` tag | Zero dependencies | CDN ready
 
 ## 💼 Proposal Ask Details
-- **Funding Ask:** €50k (6 months incubation)
+- **Resource Allocation:** €50k – €55k (MVP to Sovereign-Audit Ready)
 - **KPIs:** 100% GDPR compliance | 10+ SME deployments | 25% time savings | 90%+ accuracy
 - **Team:** Mariyani Group LTD | Varna, Bulgaria
 - **Status:** EU-eligible startups
@@ -65,5 +65,5 @@ MIT License - Free commercial use. See [LICENSE](LICENSE) file.
 
 ## 🔗 Contact
 - **Live Demo:** https://seoframe.com/tagbridge-multi-demo.html | https://yankoslavov.dev/tagbridge-llm/
-- **Team:** www.seoframe.com/team/ | https://seoframe.com/advanced-seo.html | www.mariyanigroup.eu
+- **Team:** https://www.mariyanigroup.eu/#team
 
